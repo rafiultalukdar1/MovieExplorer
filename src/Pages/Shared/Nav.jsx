@@ -27,8 +27,8 @@ const Nav = () => {
                             <div tabIndex={0} role="button" className="lg:hidden cursor-pointer mr-3.5" >
                                 <HiMenuAlt3 className="h-8 w-8 text-[#fcfcfc]" />
                             </div>
-
-                            <ul className="menu menu-sm dropdown-content bg-black rounded-box z-2 mt-3 w-52 p-2 shadow px-5 py-3 space-y-1.5 text-[18px] font-bold text-[#2DD4BF]">
+                            
+                            <ul className="menu menu-sm dropdown-content bg-black rounded-box z-2 mt-3 w-52 p-2 shadow px-5 py-3 space-y-1.5 text-[18px] font-bold text-[#2DD4BF] border border-[#fcfcfc5b]">
                                 {links}
                             </ul>
                         </div>
