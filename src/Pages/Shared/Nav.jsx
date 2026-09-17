@@ -19,7 +19,7 @@ const Nav = () => {
 
   return (
     <>
-        <div className="bg-[#06090C] shadow-sm py-4 sticky top-0 z-99 border-b border-[#fcfcfc4b]">
+        <div className="bg-[#06090C] shadow-sm py-4 sticky top-0 z-98 border-b border-[#fcfcfc4b]">
             <div className=''>
                 <div className='navbar container'>
                     <div className="navbar-start">
